@@ -23,7 +23,7 @@
     "@mattermost/calls-common": "github:mattermost/calls-common#f973548df2ad5c7ea4cbff648369e8caa1e0fb07",
     "@msgpack/msgpack": "2.7.1",
     "@redux-devtools/extension": "3.2.3",
-    "core-js": "3.26.1",
+    "core-js": "3.38.1",
     "css-vars-ponyfill": "2.4.8",
     "emoji-picker-react": "4.4.7",
     "fflate": "0.8.2",
